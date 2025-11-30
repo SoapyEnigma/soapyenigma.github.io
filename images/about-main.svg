@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#333333" width="800" height="600"/>
+  <rect fill="#1a1a1a" x="50" y="50" width="700" height="500" rx="20" opacity="0.5"/>
+  <circle cx="400" cy="250" r="100" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="400" cy="220" r="40" fill="rgba(255,255,255,0.2)"/>
+  <path d="M340 280 Q400 340 460 280" stroke="rgba(255,255,255,0.2)" stroke-width="20" fill="none"/>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">YOUR TEAM / SHOP PHOTO</text>
+  <text x="400" y="460" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.6)" text-anchor="middle">Replace with about-main.jpg</text>
+</svg>

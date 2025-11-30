@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#D32F2F" width="800" height="600"/>
+  <rect fill="#B71C1C" x="50" y="50" width="700" height="500" rx="20" opacity="0.3"/>
+  <rect fill="rgba(255,255,255,0.1)" x="150" y="150" width="200" height="150" rx="10"/>
+  <rect fill="rgba(255,255,255,0.1)" x="450" y="150" width="200" height="150" rx="10"/>
+  <rect fill="rgba(255,255,255,0.1)" x="300" y="350" width="200" height="150" rx="10"/>
+  <text x="400" y="560" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)" text-anchor="middle">Replace with about-preview.jpg</text>
+</svg>

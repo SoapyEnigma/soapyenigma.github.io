@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#e5e5e5" width="800" height="600"/>
+  <rect fill="#cccccc" x="300" y="200" width="200" height="200" rx="10"/>
+  <path fill="#999999" d="M380 260 L420 260 L420 300 L380 300 Z M360 320 L440 320 L400 380 Z"/>
+  <text x="400" y="430" font-family="Arial, sans-serif" font-size="24" fill="#666666" text-anchor="middle">Add Your Image</text>
+</svg>

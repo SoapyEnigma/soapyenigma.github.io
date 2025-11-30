@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect fill="#4CAF50" width="800" height="800"/>
+  <rect fill="#2E7D32" x="50" y="50" width="700" height="700" rx="20" opacity="0.3"/>
+  <text x="400" y="380" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle" font-weight="bold">SPORTS 1</text>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.7)" text-anchor="middle">Replace with your image</text>
+</svg>
